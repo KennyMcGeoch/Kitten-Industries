@@ -1,0 +1,8 @@
+.display-right{
+	display: flex;
+	justify-content: flex-end;
+	color: blue;
+}#shake:hover{
+	webkit-animation: shake 1s;
+    animation: shake 1s;
+}
